@@ -7,4 +7,5 @@ Projects I've finished:
 "It would be easier to design my own cpu and bios and create my own OS than learning the basics of a boot sector and other things."
 
 [GPG Public Key](https://github.com/Abelkrijgtalles.gpg)
+
 [Old GPG Public Key (used before 2025-08-15)](https://raw.githubusercontent.com/Abelkrijgtalles/Abelkrijgtalles/refs/heads/main/old.gpg)
